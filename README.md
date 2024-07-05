@@ -79,3 +79,7 @@
    ```bash
    python manage.py runserver
    ```
+<video width="640" height="480" controls>
+  <source src="https://drive.google.com/file/d/1TW-R19stZNePKYJMr2e396r8g1xlhyVS/preview"
+</video>
+
