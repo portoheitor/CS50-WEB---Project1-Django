@@ -80,6 +80,8 @@
    python manage.py runserver
    ```
 
+# Video Demonstrando Funcionalidade 💻⬇️
+https://www.youtube.com/watch?v=Eqdl5J1S3nU&t=7s
+[![DEmo](https://drive.google.com/uc?export=view&id=1R9h6OhwPua2yIpVxThIassYKoL9LmP6r)](https://www.youtube.com/watch?v=Eqdl5J1S3nU&t=7s)
 
-![DEmo](https://drive.google.com/uc?export=view&id=1R9h6OhwPua2yIpVxThIassYKoL9LmP6r)
 
